@@ -1,5 +1,7 @@
 # Star Pattern Generator
 
+## [Live Demo](https://dinethpansiluw.github.io/Star-Pattern-Generator/)
+
 A simple web application that generates a right-angled triangle star pattern based on user input. The user can specify the number of rows, and the application dynamically creates a pattern of stars accordingly.
 
 ## Features:
