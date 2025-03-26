@@ -16,7 +16,6 @@ A simple web application that generates a right-angled triangle star pattern bas
 
 ## Technologies Used:
 - **HTML** - Structure of the page
-- **CSS** (optional) - Styling the output (if you choose to add styles)
 - **JavaScript** - Logic to generate the star pattern and handle DOM updates
 
 ## How to Run:
