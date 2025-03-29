@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Star Pattern Generator</title>
 </head>
 <body>
     Lines:<input id="count" oninput="count()" placeholder="Input Some Value">
@@ -12,13 +12,20 @@
     <script>
         function count() { 
         let count=document.getElementById("count").value,
-        output=document.getElementById("output");
-        output.innerHTML = "";
+        output=document.getElementById("output"),
+        total = 0;
+
+        for (let i=1; i<=count; i++){
+            total = total+i ;
+        }
+        output.innerHTML = "<h3 style='color:rgb(0, 154, 14)'>Total = " + total + "</h3><br><br>";
        
+    
 
         for(let i=1; i<=count; i++){
             for (let stars=1; stars<=i; stars++) {
                 output.innerHTML += "*";
+
             };
             output.innerHTML += "<br>";
         }
