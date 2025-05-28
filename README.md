@@ -2,6 +2,8 @@
 
 ## [Live Demo](https://dinethpansiluw.github.io/StarPatternGenerator-forFun/)
 
+Updated version of this repository ---> [Click] (https://github.com/DinethPansiluW/StarPatternGenerator-forFun2)
+
 A simple web application that generates a right-angled triangle star pattern based on user input. The user can specify the number of rows, and the application dynamically creates a pattern of stars accordingly.
 
 ## Features:
@@ -25,3 +27,13 @@ A simple web application that generates a right-angled triangle star pattern bas
 
 ## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🧑‍💻 Author
+
+**Dineth Pansilu**  
+📫 Follow on GitHub: [DinethPansiluW](https://github.com/DinethPansiluW)
+
+---
+
